@@ -1,0 +1,3 @@
+define({
+	country: 'Londres'
+});
